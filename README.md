@@ -1,2 +1,2 @@
 # Regression
-Deciding the right salary based on the Experience of an employee
+Predicting the right salary of an employee based on the years of experience
